@@ -1,0 +1,12 @@
+{
+  "name": "Pixit",
+  "displayName": "Pixit",
+  "expo": {
+    "name": "Pixit",
+    "slug": "Pixit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
